@@ -1,3 +1,9 @@
+#cd spring-petclinic/
+#echo 'Jenkins is fun' | tee -a readme.md
+#git add .
+#git commit -m 'Changed readme.md'
+#git push origin master
+
 # Spring PetClinic Sample Application
 
 
@@ -205,3 +211,4 @@ Here is a list of them:
 
 
 
+Jenkins is fun
